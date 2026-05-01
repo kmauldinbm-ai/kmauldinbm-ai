@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm K. Mauldin 👋
 
-<!--
-**kmauldinbm-ai/kmauldinbm-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Career-Changer • IT & Networking • Always Learning
 
-Here are some ideas to get you started:
+I’m transitioning into IT after running my own business for nearly a decade. I hold a **BS in Business**, an **AAS in Computer Networking**, and the **CompTIA Network+** certification. I use GitHub to document my learning, build hands-on projects, and show my progress as I work toward my first IT role and eventually remote work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills I'm Building
+- **Networking:** VLANs, DHCP, DNS, NAT, Routing, Switching  
+- **Systems:** Windows Server, Linux, Active Directory  
+- **Automation:** PowerShell, Bash  
+- **Tools:** Wireshark, pfSense, Git, Docker  
+- **Virtualization:** Proxmox, VMware, VirtualBox  
+
+---
+
+## 📂 What You'll Find Here
+- Networking labs (Packet Tracer, GNS3, EVE-NG)  
+- PowerShell scripts for automation  
+- Homelab documentation and diagrams  
+- Troubleshooting notes and learning projects  
+
+---
+
+## 🌱 Currently Learning
+- Helpdesk fundamentals  
+- Network automation basics  
+- Virtualization and homelab management  
+- Linux and scripting  
+
+---
+
+## 🎯 Goals
+- Land my first IT job (helpdesk, support, or junior systems/network role)  
+- Build a strong technical foundation  
+- Grow into a remote IT position over time  
+
+---
+
+## 📫 Connect
+- LinkedIn: www.linkedin.com/in/kenneth-mauldin
+- GitHub Projects: scroll down to see my work 👇
